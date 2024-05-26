@@ -1,4 +1,3 @@
-#quero guardar os valores 
 import time
 print('''        --- MENU---
         [d] - depósito
